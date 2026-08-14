@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Data Analyst
 - 🌱 I’m currently learning Python,Numpay,Pandas,Excel
+- 💬 Ask me about Python, Data Analysis, Pandas, SQL, Power BI
 
 ### 👋 About Me
 I'm a Data Analyst based in Bangladesh, working with Python, SQL, and Power BI 
